@@ -14,7 +14,7 @@ Welcome to your first workshop assignment! In this week's exercise, you will use
 
 The goal of today's workshop is to reinforce your skills in **data wrangling**, **visualization**, and **reporting** using R.
 
-**The assignment is due on Friday, October 4th, at 11:59 PM GMT.** All assignments should be submitted individually, but you are encouraged to work in groups. To submit your work, please upload your R script to the Workshop 1 submission page.
+All assignments should be submitted individually, but you are encouraged to work in groups. To submit your work, please upload your R script to the Workshop 1 submission page.
 
 
 # Instructions
