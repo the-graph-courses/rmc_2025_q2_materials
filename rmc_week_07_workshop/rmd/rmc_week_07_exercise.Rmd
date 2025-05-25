@@ -2,7 +2,6 @@
 title: "R Masterclass | Week 7 Workshop"
 subtitle: "Functions, Conditionals, and For Loops practice"
 author: "YOUR NAME HERE" # Remember to add your name!
-date: 2024-11-13
 editor_options: 
   chunk_output_type: inline
   markdown: 

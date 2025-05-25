@@ -2,7 +2,6 @@
 title: "RMasterclass Week 5 workshop"
 subtitle: "Strings and Dates practice"
 author: "YOUR NAME HERE" # Remember to add your name!
-date: "2024-10-30"
 editor_options: 
   chunk_output_type: inline
   markdown: 

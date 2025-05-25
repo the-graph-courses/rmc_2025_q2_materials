@@ -2,7 +2,6 @@
 title: "Workshop Exercise: Week 6"
 subtitle: "Data Cleaning"
 author: "YOUR NAME HERE" # Remember to add your name!
-date: "2024-11-06"
 editor_options: 
   chunk_output_type: inline
   markdown: 

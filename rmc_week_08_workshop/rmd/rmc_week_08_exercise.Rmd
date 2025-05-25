@@ -2,7 +2,6 @@
 title: "Workshop Exercise: Week 8"
 subtitle: "Thematic Maps"
 author: "YOUR NAME HERE" # Remember to add your name!
-date: "2024-08-28"
 editor_options: 
   chunk_output_type: inline
   markdown: 
